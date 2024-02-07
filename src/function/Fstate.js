@@ -5,4 +5,3 @@ export const Fstate = () => {
     <div>Fstate</div>
   )
 }
-~
