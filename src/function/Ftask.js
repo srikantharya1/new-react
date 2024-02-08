@@ -12,7 +12,7 @@ export const Ftask = () => {
   return (
     <div>
         <center>
-            <h1 style={count>=0?{color:"green"}:{color:"pink"}}>{count}</h1>
+            <h1 style={count>=0?{color:"yellow"}:{color:"pink"}}>{count}</h1>
             <button onClick={press}>click here(+)</button>
             <button onClick={pres}>click here(-)</button>
         </center>
